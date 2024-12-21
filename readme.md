@@ -5,6 +5,8 @@ This project utilizes blockchain technology to tokenize learning modules, enabli
 
 ## Contract Address
 0xd9145CCE52D386f254917e481eB44e9943F39138
+![image](https://github.com/user-attachments/assets/a7e98842-6859-4b5e-ae69-2f874e5c8391)
+
 
 ## Project Vision
 To establish a transparent, decentralized platform that empowers educators, learners, and contributors to co-own and earn from educational content. This vision bridges technology and education, ensuring fair distribution of intellectual property.
